@@ -1,0 +1,48 @@
+/*logo place holder */
+
+
+footer{
+    border-top: 2px solid #adb1b8;
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #ffc107c7;
+    /* border-color: #28a745; */
+}
+
+.logo-img{
+    display:block;
+    margin:0 auto;
+}
+.center-span{
+    text-align: center;
+    margin:0 auto;
+}
+/* placing a border around the fieldset element */
+fieldset{
+    width: 75%;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 5px 25px;
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+span{
+    background-color: #fff;
+    color: #767676;
+    padding: 0 10px;
+}
+form input{
+    display:block;
+    width: 100%;
+    padding: 5px;
+    border: 1px solid grey;
+    border-radius: 2px;
+    margin-bottom: 25px;
+}
+.forgotpass{
+    position: relative;
+    bottom: 0vh;
+    right: -5vw;
+}
